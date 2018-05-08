@@ -4,7 +4,7 @@
 <%@ include file="base.jsp"%>
 <head>
 <meta http-equiv="Content-Type" content="text/html;" charset="utf-8">
-<title>陕西杰信商务综合管理平台</title>
+<title>杰信商务综合管理平台</title>
 </head>
 <body>
 <form id="login_main" method="post">
