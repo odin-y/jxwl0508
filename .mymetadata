@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jxwl"
+  id="myeclipse.1525571258974"
+  context-root="/jk"
+  j2ee-spec="6.0"
+  archive="jxwl.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
